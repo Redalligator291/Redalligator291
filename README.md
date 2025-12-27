@@ -1,18 +1,28 @@
+<!-- ...existing code... -->
+# Hi — I’m Kavin Ramadoss
 
-<h1>Hi, I'm Kavin Ramadoss ! <br/><a href="https://github.com/Redalligator291">High School Student, Researcher, Machine Learning Enthusist, Progammer, Bio Medical Researcher </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/kavin-ramadoss-478438289/">YouTuber</a></h1>
+High school student · Researcher · Machine Learning enthusiast · Programmer · Biomedical researcher · Cybersecurity enthusiast · YouTuber
 
+## About
+I work at the intersection of machine learning and biomedical research, building practical projects, learning new techniques, and sharing knowledge.
 
-<!--
-**Redalligator291/Redalligator291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Python, PyTorch, TensorFlow
+- Machine Learning & Deep Learning
+- Data analysis & visualization
+- Basic bioinformatics & biomedical research tools
+- Cybersecurity fundamentals
 
-Here are some ideas to get you started:
+## Selected Projects
+- Project A — brief one-line description of what it does
+- Project B — brief one-line description of what it does
+(See repositories on my GitHub for details.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- GitHub: https://github.com/Redalligator291  
+- LinkedIn: https://www.linkedin.com/in/kavin-ramadoss-478438289/
+
+## Get in touch
+Open an issue on any repo or reach out via LinkedIn.
+
+<!-- End of file -->
