@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<h1>Hi, I'm Kavin Ramadoss ! <br/><a href="https://github.com/Redalligator291">High School Student, Researcher, Machine Learning Enthusist, Progammer, Bio Medical Researcher </a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/kavin-ramadoss-478438289/">YouTuber</a></h1>
+
+
 <!--
 **Redalligator291/Redalligator291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
