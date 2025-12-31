@@ -1,11 +1,11 @@
 <!-- ...existing code... -->
 # Hi — I’m Kavin Ramadoss
 
-High school student · Researcher · Machine Learning enthusiast · Programmer · Biomedical researcher in the fieed of Malaria and Demnentia. 
+High school student · Researcher · Machine Learning enthusiast · Programmer · Biomedical researcher in the field of Malaria and Dementia. 
 
 ## About
 I work at the intersection of machine learning and biomedical research, building practical projects, learning new techniques, and sharing knowledge.
-I collaborate with University of Missouri and CalTech. 
+I collaborate with the University of Missouri and Caltech. 
 
 ## Skills
 - Python, PyTorch, TensorFlow
