@@ -1,7 +1,7 @@
 <!-- ...existing code... -->
 # Hi — I’m Kavin Ramadoss
 
-High school student · Researcher · Machine Learning enthusiast · Programmer · Biomedical researcher in the filed of Malaria and Demnentia. 
+High school student · Researcher · Machine Learning enthusiast · Programmer · Biomedical researcher in the fieed of Malaria and Demnentia. 
 
 ## About
 I work at the intersection of machine learning and biomedical research, building practical projects, learning new techniques, and sharing knowledge.
@@ -15,8 +15,6 @@ I collaborate with University of Missouri and CalTech.
 - Diff SPDD, CNN, 
 
 ## Selected Projects
-- Project A — brief one-line description of what it does
-- Project B — brief one-line description of what it does
 (See repositories on my GitHub for details.)
 
 ## Links
